@@ -2,4 +2,4 @@
 
 ### Full Stack App
 
-![](./public/images/app-screenshot.png)
+![app-screenshot](./public/images/app-screenshot.png)
