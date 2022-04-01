@@ -38,3 +38,8 @@ If you're interested in seeing my work click [here](http://mighty-brook-32674.he
 You can email me at dwhipp88@gmail.com.
 
 # Badges
+
+![design pattern](https://img.shields.io/badge/Design%20Pattern-MVC-blue)
+![mysql2](https://img.shields.io/badge/mysql2-2.3.0-blue)
+![express](https://img.shields.io/badge/express-4.17.1-blue)
+![sequelize](https://img.shields.io/badge/sequelize-6.6.5-blue)
