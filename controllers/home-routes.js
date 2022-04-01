@@ -42,7 +42,7 @@ router.get("/", (req, res) => {
         })
       );
       res.render("homepage", {
-        posts,
+        posts: posts,
         loggedIn: req.session.loggedIn,
       });
     })
